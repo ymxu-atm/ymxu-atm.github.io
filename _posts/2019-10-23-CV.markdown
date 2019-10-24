@@ -3,16 +3,17 @@ layout: post
 title:  "CV of Yiming Xu"
 
 ---
+
 __Email__: ymxu@smail.nju.edu.cn  
 __Address__:  B414, School of Atmospheric Sciences,163Xianlin Avenue, Nanjing, Jiangsu, China  
 
 
-<font size="4" color="black" bold><u>Education</u></font>
+__<font size="4" color="black" bold><u>Education</u></font>__
 
-__2012-2016__ :
-B.S.in School of Atmospheric Sciences, Nanjing University, Nanjing, China   &ensp;&ensp;     __GPA__ : 4.28/5.0  
-__2018-Present__ :
-Master candidate in School of Atmospheric Sciences, Nanjing University, Nanjing, China  &ensp; __GPA__ : 4.52/5.0
+2012-2016 :
+B.S.in School of Atmospheric Sciences, Nanjing University, Nanjing, China   &ensp;&ensp;     GPA : 4.28/5.0  
+2018-Present :
+Master candidate in School of Atmospheric Sciences, Nanjing University, Nanjing, China  &ensp; GPA : 4.52/5.0
 
 <font size="4" color="black" bold><u>Research Interests</u></font>
 Climate dynamics; Ocean-atmosphere interaction; Tropical dynamics; Extreme precipitation
