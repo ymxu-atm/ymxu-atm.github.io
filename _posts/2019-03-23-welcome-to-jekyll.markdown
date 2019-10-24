@@ -7,7 +7,7 @@ categories: CV
 This is Yiming XU
 
 
-* lalala
+\\__Education__\\
 * lalala
 * lalala
 
