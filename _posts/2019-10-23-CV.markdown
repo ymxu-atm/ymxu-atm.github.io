@@ -3,7 +3,7 @@ layout: post
 title:  "CV of Yiming Xu"
 
 ---
-__cell__: +86&ensp; 15720827220  
+__Cell__: +86&ensp; 15720827220  
 __Email__: ymxu@smail.nju.edu.cn  
 __Address__:  B414 School of Atmospheric Sciences,163Xianlin Avenue, Nanjing, Jiangsu, China  
 
@@ -11,8 +11,7 @@ __Address__:  B414 School of Atmospheric Sciences,163Xianlin Avenue, Nanjing, Ji
 <font size="4" color="black" bold><u>Education</u></font>
 
 __2012-2016__ :
-B.S.in School of Atmospheric Sciences, Nanjing University, Nanjing, China   &ensp;&ensp;     __GPA__ : 4.28/5.0
-
+B.S.in School of Atmospheric Sciences, Nanjing University, Nanjing, China   &ensp;&ensp;     __GPA__ : 4.28/5.0  
 __2018-Present__ :
 Master candidate in School of Atmospheric Sciences, Nanjing University, Nanjing, China  &ensp; __GPA__ : 4.52/5.0
 
@@ -25,7 +24,7 @@ Research Advisor: Prof. Xuguang Sun
 * Analyze the structure and the interannual variability of the teleconnection in observation.
 * The associated time series are used to understand the source and the influence on circulation and precipitation.
 
-2019/01—Present: Characteristics of Summer Regional persistent extreme precipitation events and their typical atmospheric circulation patterns over Eastern China
+2019/01—Present: Characteristics of Summer Regional persistent extreme precipitation events and their typical atmospheric circulation patterns over Eastern China  
 Research Advisor: Prof. Xuguang Sun
 * Classify the regional extreme precipitation events via k-mean cluster analysis and look for related atmospheric circulation patterns and energy source.
 * Try to use the circulation pattern to predict the extreme events and evaluate the models’ skill in prediction.
@@ -36,11 +35,11 @@ __Xu, Y.__, & Sun, X., Characteristics of Summer Regional persistent extreme pre
 
 <font size="4" color="black" bold><u>Conference</u></font>
 2019/12: American Geophysical Union (AGU) Fall meeting in San Francisco.  
-&ensp;&ensp; Poster Presentation: Characteristics of Summer Regional persistent extreme precipitation events and their typical atmospheric circulation patterns over Eastern China.
+## Poster Presentation: Characteristics of Summer Regional persistent extreme precipitation events and their typical atmospheric circulation patterns over Eastern China.
 
 <font size="4" color="black" bold><u>Teaching Experience</u></font>  
-2018-2019:   TA: Numerical weather prediction – undergraduate course  
-2019-2020:   TA: Fluid Dynamics – undergraduate course
+2018-2019:   &ensp;&ensp;TA: Numerical weather prediction – undergraduate course  
+2019-2020:   &ensp;&ensp;TA: Fluid Dynamics – undergraduate course
 
 <font size="4" color="black" bold><u>Awards and Honors</u></font>
 The People’s Scholarship, Nanjing University, 2013, 2014, 2015(Three times)  
