@@ -5,7 +5,7 @@ title:  "CV of Yiming Xu"
 ---
 __Cell__: +86&ensp; 15720827220  
 __Email__: ymxu@smail.nju.edu.cn  
-__Address__:  B414 School of Atmospheric Sciences,163Xianlin Avenue, Nanjing, Jiangsu, China  
+__Address__:  B414, School of Atmospheric Sciences,163Xianlin Avenue, Nanjing, Jiangsu, China  
 
 
 <font size="4" color="black" bold><u>Education</u></font>
@@ -19,7 +19,7 @@ Master candidate in School of Atmospheric Sciences, Nanjing University, Nanjing,
 Climate dynamics; Ocean-atmosphere interaction; Tropical dynamics; Extreme precipitation
 
 <font size="4" color="black" bold><u>Research Experience</u></font>
-2015/07—2019/01: The tropical and extratropical-origin summer meridional teleconnections over East Asia
+2015/07—2019/01: The tropical and extratropical-origin summer meridional teleconnections over East Asia  
 Research Advisor: Prof. Xuguang Sun
 * Analyze the structure and the interannual variability of the teleconnection in observation.
 * The associated time series are used to understand the source and the influence on circulation and precipitation.
@@ -35,11 +35,11 @@ __Xu, Y.__, & Sun, X., Characteristics of Summer Regional persistent extreme pre
 
 <font size="4" color="black" bold><u>Conference</u></font>
 2019/12: American Geophysical Union (AGU) Fall meeting in San Francisco.  
-## Poster Presentation: Characteristics of Summer Regional persistent extreme precipitation events and their typical atmospheric circulation patterns over Eastern China.
+##Poster Presentation: Characteristics of Summer Regional persistent extreme precipitation events and their typical atmospheric circulation patterns over Eastern China.
 
 <font size="4" color="black" bold><u>Teaching Experience</u></font>  
-2018-2019:   &ensp;&ensp;TA: Numerical weather prediction – undergraduate course  
-2019-2020:   &ensp;&ensp;TA: Fluid Dynamics – undergraduate course
+2018-2019:   &ensp;&ensp;TA:&ensp; Numerical weather prediction – undergraduate course  
+2019-2020:   &ensp;&ensp;TA: &ensp;Fluid Dynamics – undergraduate course
 
 <font size="4" color="black" bold><u>Awards and Honors</u></font>
 The People’s Scholarship, Nanjing University, 2013, 2014, 2015(Three times)  
