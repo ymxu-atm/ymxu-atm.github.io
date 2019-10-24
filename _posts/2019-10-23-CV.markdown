@@ -4,15 +4,15 @@ title:  "CV of Yiming Xu"
 
 ---
 
-<font size="6" color="black" bold><u>Education</u></font>
+<font size="4" color="black" bold><u>Education</u></font>
 
 __2012-2016__ :
-B.S.in School of Atmospheric Sciences, Nanjing University, Nanjing, China       \quad\ __GPA__ : 4.28/5.0
+B.S.in School of Atmospheric Sciences, Nanjing University, Nanjing, China   &ensp;&ensp;     __GPA__ : 4.28/5.0
 
 __2018-Present__ :
-Master candidate in School of Atmospheric Sciences, Nanjing University, Nanjing, China  \quad\ __GPA__ : 4.52/5.0
+Master candidate in School of Atmospheric Sciences, Nanjing University, Nanjing, China  &ensp; __GPA__ : 4.52/5.0
 
-<font size="6" color="black" bold><u>Research Interests</u></font>
+<font size="4" color="black" bold><u>Research Interests</u></font>
 * lalala
 * lalala
 
