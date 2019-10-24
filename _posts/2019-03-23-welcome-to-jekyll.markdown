@@ -6,8 +6,14 @@ categories: CV
 ---
 This is Yiming XU
 
+## Education
 
-<font size="10" color="blue"><u>Education</u></font>
+
+<font size="10" color="blue" bold><u>Education</u></font>
+
+__2012-2016__
+B.S.
+
 * lalala
 * lalala
 
