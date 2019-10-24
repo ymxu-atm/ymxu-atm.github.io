@@ -35,7 +35,7 @@ __Xu, Y.__, & Sun, X., Characteristics of Summer Regional persistent extreme pre
 
 <font size="4" color="black" bold><u>Conference</u></font>
 2019/12: American Geophysical Union (AGU) Fall meeting in San Francisco.  
-##Poster Presentation: Characteristics of Summer Regional persistent extreme precipitation events and their typical atmospheric circulation patterns over Eastern China.
+Characteristics of Summer Regional persistent extreme precipitation events and their typical atmospheric circulation patterns over Eastern China.(poster)
 
 <font size="4" color="black" bold><u>Teaching Experience</u></font>  
 2018-2019:   &ensp;&ensp;TA:&ensp; Numerical weather prediction – undergraduate course  
