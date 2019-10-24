@@ -4,9 +4,10 @@ title:  "CV of Yiming Xu"
 
 ---
 
-__Email__: ymxu@smail.nju.edu.cn  
-__Address__:  B414, School of Atmospheric Sciences,163Xianlin Avenue, Nanjing, Jiangsu, China  
+School of Atmospheric Sciences, Nanjing University  
+163Xianlin Avenue, Nanjing, Jiangsu, China  
 
+ymxu@smail.nju.edu.cn 
 
 __<font size="4" color="black" bold><u>Education</u></font>__
 
@@ -15,10 +16,10 @@ B.S.in School of Atmospheric Sciences, Nanjing University, Nanjing, China   &ens
 2018-Present :
 Master candidate in School of Atmospheric Sciences, Nanjing University, Nanjing, China  &ensp; GPA : 4.52/5.0
 
-__<font size="4" color="black" bold><u>Research Interests</u></font>__
+__<font size="4" color="black" bold><u>Research Interests</u></font>__  
 Climate dynamics; Ocean-atmosphere interaction; Tropical dynamics; Extreme precipitation
 
-__<font size="4" color="black" bold><u>Research Experience</u></font>__
+__<font size="4" color="black" bold><u>Research Experience</u></font>__  
 2015/07—2019/01: The tropical and extratropical-origin summer meridional teleconnections over East Asia  
 Research Advisor: Prof. Xuguang Sun
 * Analyze the structure and the interannual variability of the teleconnection in observation.
@@ -29,18 +30,18 @@ Research Advisor: Prof. Xuguang Sun
 * Classify the regional extreme precipitation events via k-mean cluster analysis and look for related atmospheric circulation patterns and energy source.
 * Try to use the circulation pattern to predict the extreme events and evaluate the models’ skill in prediction.
 
-__<font size="4" color="black" bold><u>Papers</u></font>__
+__<font size="4" color="black" bold><u>Papers</u></font>__  
 Sun, X., __Xu, Y.__, Zhang, Z., & Yang, X.-Q. (2019). The tropical and extratropical-origin summer meridional teleconnections over East Asia. Climate Dynamics, 0(0), 1–15. https://doi.org/10.1007/s00382-018-04610-2  
 __Xu, Y.__, & Sun, X., Characteristics of Summer Regional persistent extreme precipitation events and their typical atmospheric circulation patterns over Eastern China. (in preparation)
 
-__<font size="4" color="black" bold><u>Conference</u></font>__
+__<font size="4" color="black" bold><u>Conference</u></font>__  
 2019/12: American Geophysical Union (AGU) Fall meeting in San Francisco.  
 Characteristics of Summer Regional persistent extreme precipitation events and their typical atmospheric circulation patterns over Eastern China.(poster)
 
-__<font size="4" color="black" bold><u>Teaching Experience</u></font>__  
+__<font size="4" color="black" bold><u>Teaching Experience</u></font>__     
 2018-2019:   &ensp;&ensp;TA:&ensp; Numerical weather prediction – undergraduate course  
 2019-2020:   &ensp;&ensp;TA: &ensp;Fluid Dynamics – undergraduate course
 
-__<font size="4" color="black" bold><u>Awards and Honors</u></font>__
+__<font size="4" color="black" bold><u>Awards and Honors</u></font>__  
 The People’s Scholarship, Nanjing University, 2013, 2014, 2015(Three times)  
 Academic Excellence Scholarship, Nanjing University, 2019
