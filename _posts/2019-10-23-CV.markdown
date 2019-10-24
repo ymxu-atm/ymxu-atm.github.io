@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "CV"
+title:  "CV of Yiming Xu"
 
 ---
-This is Yiming XU
 
-## Education
-
-
-<font size="10" color="blue" bold><u>Education</u></font>
+<font size="8" color="black" bold><u>Education</u></font>
 
 __2012-2016__
-B.S.
+B.S.in School of Atmospheric Sciences, Nanjing University, Nanjing, China       __GPA__ : 4.28/5.0
 
+__2018-Present__
+Master candidate in School of Atmospheric Sciences, Nanjing University, Nanjing, China  __GPA__ : 4.52/5.0
+
+<font size="8" color="black" bold><u>Research Interests</u></font>
 * lalala
 * lalala
 
