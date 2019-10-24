@@ -3,7 +3,6 @@ layout: post
 title:  "CV of Yiming Xu"
 
 ---
-__Cell__: +86&ensp; 15720827220  
 __Email__: ymxu@smail.nju.edu.cn  
 __Address__:  B414, School of Atmospheric Sciences,163Xianlin Avenue, Nanjing, Jiangsu, China  
 
