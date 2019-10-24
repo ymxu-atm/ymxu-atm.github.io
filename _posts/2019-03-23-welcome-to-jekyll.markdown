@@ -7,7 +7,7 @@ categories: CV
 This is Yiming XU
 
 
-<font size=10 color=blue><u>Education</u></font>
+<font size="10" color="blue"><u>Education</u></font>
 * lalala
 * lalala
 
