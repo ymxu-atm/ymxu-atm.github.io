@@ -30,7 +30,7 @@ Research Advisor: Prof. Xuguang Sun
 * Try to use the circulation pattern to predict the extreme events and evaluate the models’ skill in prediction.
 
 __<font size="4" color="black" bold><u>Papers</u></font>__  
-Sun, X., __Xu, Y.__, Zhang, Z., & Yang, X.-Q. (2019). The tropical and extratropical-origin summer meridional teleconnections over East Asia. Climate Dynamics, 0(0), 1–15. [doi](https://doi.org/10.1007/s00382-018-04610-2)    
+Sun, X., __Xu, Y.__, Zhang, Z., & Yang, X.-Q. (2019). The tropical and extratropical-origin summer meridional teleconnections over East Asia. Climate Dynamics, 53:721-735. [doi: 10.1007/s00382-018-04610-2](https://doi.org/10.1007/s00382-018-04610-2)    
 __Xu, Y.__, & Sun, X., Characteristics of Summer Regional persistent extreme precipitation events and their typical atmospheric circulation patterns over Eastern China. (in preparation)
 
 __<font size="4" color="black" bold><u>Conference</u></font>__  
