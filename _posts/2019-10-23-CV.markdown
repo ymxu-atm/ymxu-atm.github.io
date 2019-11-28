@@ -16,7 +16,7 @@ B.S.in School of Atmospheric Sciences, Nanjing University, Nanjing, China   &ens
 Master candidate in School of Atmospheric Sciences, Nanjing University, Nanjing, China  &ensp; GPA : 4.52/5.0
 
 __<font size="4" color="black" bold><u>Research Interests</u></font>__  
-Climate dynamics; Ocean-atmosphere interaction; Tropical dynamics; Extreme precipitation
+Climate dynamics; Ocean-atmosphere interaction; Tropical dynamics; Sub-seasonal to seasonal prediction
 
 __<font size="4" color="black" bold><u>Research Experience</u></font>__  
 2015/07—2019/01: The tropical and extratropical-origin summer meridional teleconnections over East Asia  
