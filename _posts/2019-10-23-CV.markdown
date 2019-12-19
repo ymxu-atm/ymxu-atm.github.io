@@ -26,7 +26,7 @@ Research Advisor: Prof. Xuguang Sun
 
 2019/01—Present: Characteristics of Summer Regional persistent extreme precipitation events and their typical atmospheric circulation patterns over Eastern China  
 Research Advisor: Prof. Xuguang Sun
-* Classify the regional extreme precipitation events via k-mean cluster analysis and look for related atmospheric circulation patterns and energy source.
+* Classify the regional extreme precipitation events via k-mean cluster analysis and study related atmospheric circulation patterns and energy source.
 * Try to use the circulation pattern to predict the extreme events and evaluate the models’ skill in prediction.
 
 __<font size="4" color="black" bold><u>Publications</u></font>__  
